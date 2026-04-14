@@ -43,6 +43,7 @@ export default {
 <style scoped>
 h3 {
   margin: 40px 0 0;
+  color: #99b942;
 }
 ul {
   list-style-type: none;
@@ -53,6 +54,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #7042b9;
 }
 </style>
